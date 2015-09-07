@@ -4,7 +4,9 @@ Twitter Sentiment Analysis
 Files info:
 
 getTweets.R: code for fetching twitter data
+
 analyseTweets.R: code for text and sentiment analysis
+
 utilities.R: reusable code for sentiment analysis (used in analyseTweets.R file)
 
 ================================================================================
